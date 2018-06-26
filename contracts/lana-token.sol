@@ -3,7 +3,7 @@ pragma solidity ^0.4.18;
 // ----------------------------------------------------------------------------
 // LANA token contract
 //
-// Deployed to : 0xc0fD6943086051769642563af6c002dB37a9Db23
+// Deployed to : 0x30c0eb61a4b30593f5f4d565d4efeda3431a5134
 // Symbol      : LANA
 // Name        : LANA
 // Total supply: 7506000000
