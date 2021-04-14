@@ -1,3 +1,6 @@
+## ERC20 token is idle and not in use !!! `
+
+
 ## Welcome to LANA erc20 token
 
 LANA token contract
